@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Cascadia";
+  src: url("./fonts/Cascadia.ttf") format("truetype");
+}
+
+body {
+  margin: 0;
+  font-family: "Cascadia", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
